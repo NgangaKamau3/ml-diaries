@@ -1,4 +1,4 @@
-# ML Diaries: Complete Mathematical Foundation
+# ML Diaries: A Mathematical Foundation
 
 A comprehensive mathematical library for machine learning, covering both **Linear Algebra** and **Convex Optimization** with academic rigor.
 
